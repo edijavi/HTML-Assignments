@@ -39,8 +39,7 @@ HTML - Terminology & Definitions file, which you can find attached in the email.
         directory you just created
         iii. Rename the image to first-img.jpg/.png
         +. Add the image to the index.html file:
-            // HTML img element
-            <img src="images/first-img.jpg">
+             <img src="images/first-img.jpg">
         +. Save the index.html file and open it in a browser to view your image in all
         its glory. Remember to use ./ before the images/first-img.jpg if your
         image isn’t loading
