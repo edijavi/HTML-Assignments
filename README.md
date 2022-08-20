@@ -16,8 +16,9 @@ HTML - Terminology & Definitions file, which you can find attached in the email.
         ```html
         <h1>Homepage</h1>
     6. Create another HTML file named about.html
-    7. Back in the index page, add the following anchor element below the <h1>
-    element:
+    7. Back in the index page, add the following anchor element below the 
+        ```html
+        <h1> element
         ```html
         <a href=”https://theuselessweb.com/”>click me</a>
         <a href="about.html">About</a>
