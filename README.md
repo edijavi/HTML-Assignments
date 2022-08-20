@@ -19,7 +19,6 @@ HTML - Terminology & Definitions file, which you can find attached in the email.
     7. Back in the index page, add the following anchor element below the 
         ```html
         <h1> element
-        ```html
         <a href=”https://theuselessweb.com/”>click me</a>
         <a href="about.html">About</a>
     8. Open the index file in a browser and click on the About link to make sure it is all
