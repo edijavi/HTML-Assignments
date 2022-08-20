@@ -12,11 +12,15 @@ HTML - Terminology & Definitions file, which you can find attached in the email.
     2. Within that directory, create a new file named index.html
     3. Fill in the usual HTML boilerplate
     4. Set the title to “Links & Images”
-    5. Finally, add the following h1 to the body: <h1>Homepage</h1>
+    5. Finally, add the following h1 to the body: 
+        ```html
+        <h1>Homepage</h1>
     6. Create another HTML file named about.html
     7. Back in the index page, add the following anchor element below the <h1>
-    element: <a href=”https://theuselessweb.com/”>click me</a>
-    <a href="about.html">About</a>
+    element:
+        ```html
+        <a href=”https://theuselessweb.com/”>click me</a>
+        <a href="about.html">About</a>
     8. Open the index file in a browser and click on the About link to make sure it is all
     wired together correctly. Clicking the link should go to the empty about page you
     just created (you can fill it in if you like)
