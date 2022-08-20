@@ -32,18 +32,18 @@ HTML - Terminology & Definitions file, which you can find attached in the email.
     prevent such issues. By adding ./ you are specifying to your code that it should
     start looking for the file/directory relative to the current directory. You can also
     add a link to get back from the About page to your homepage
-    k. To use images on your own websites, you can use a relative path:
-    11. Create a new directory named images within the links-and-images
-    project
-        +. Next, download any image .jpg/.png and move it into the images
+    11. To use images on your own websites, you can use a relative path:
+        1. Create a new directory named images within the links-and-images project
+        2. Next, download any image .jpg/.png and move it into the images
         directory you just created
-        iii. Rename the image to first-img.jpg/.png
-        +. Add the image to the index.html file:
-             <img src="images/first-img.jpg">
-        +. Save the index.html file and open it in a browser to view your image in all
+        3. Rename the image to first-img.jpg/.png
+        4. Add the image to the index.html file:
+            ```html
+            <img src="images/first-img.jpg">
+        5. Save the index.html file and open it in a browser to view your image in all
         its glory. Remember to use ./ before the images/first-img.jpg if your
         image isn’t loading
-        +. As a bit of practice, add an alt attribute to the first-img you added to the
+    12. As a bit of practice, add an alt attribute to the first-img you added to the
         links-and-images project.
 4. Assignment(Main HTML project): For presentation make a few page presentation
 website about your hobby/favorite books/movies etc. Your website should contain a
